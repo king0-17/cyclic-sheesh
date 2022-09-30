@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "start" "...",
+        "start": "...",
         "dev": "vite",
         "build": "vite build"
     },
